@@ -1,6 +1,6 @@
 <!-- Terminal-Style Animated Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&background=0D1117&center=true&vCenter=true&width=600&height=80&lines=>louay_njah" alt="Terminal Typing Effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=500&color=00FF00&background=0D1117&center=true&vCenter=true&width=600&height=80&lines=>louay_njah" alt="Terminal Typing Effect" />
 </div>
 
 <!-- Core Identity Subtitle -->
