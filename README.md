@@ -1,27 +1,84 @@
-# 💫 About Me:
-Louay is a cybersecurity enthusiast that wants to use artificial intelligence  to make cybersecurity easier and more advanced !<br>I've achieved some fundamental cybersecurity projects and earned many certifications in this field
+<!-- Dynamic Gradient Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20[Your%20Name]!&fontSize=50&animation=fadeIn" width="100%"/>
+</div>
 
+<!-- Animated Typing Subtitle -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=[Your+Title+,+e.g.,+Full-Stack+Engineer];[Your+Niche+,+e.g.,+AI+%26+Cloud+Architect];[Your+Motto+,+e.g.,+Building+Scalable+Solutions]" alt="Typing SVG" />
+  </a>
+</div>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/louay.njah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louay-njah-98aaa1204/?isSelfProfile=true) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:louay.njah@etudiant-enit.utm.tn) 
+<br/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=louaynjah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=louaynjah&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=louaynjah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Clean Social Badges -->
+<div align="center">
+  <a href="mailto:[Your Email]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/[Your LinkedIn]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="[Your Portfolio Link]"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" /></a>
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=louaynjah&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🚀 About Me
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=louaynjah&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I am a **[Your Degree/Current Role]** specializing in **[Your Core Field]**. Unlike standard developers, I focus on the intersection of **[Domain 1]** and **[Domain 2]**, building systems that are both resilient and intelligent. 
 
----
-[![](https://komarev.com/ghpvc/?username=louaynjah&icon=0&color=0)](https://visitcount.itsvg.in)
+*   🔭 **Currently working on:** [Mention a cool sounding project, e.g., an automated threat detection agent]
+*   🌱 **Currently mastering:** [e.g., Kubernetes orchestration and Advanced RAG pipelines]
+*   💡 **Engineering philosophy:** Code is read more than it is written. Build for scale, design for security.
+*   ⚡ **Fun fact:** [Insert a short, unique hobby or achievement, similar to the taekwondo mention]
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+## 🛠️ Tech Arsenal
+
+*Instead of a boring text table, use visual badges that recruiters instantly recognize.*
+
+**Languages & Core** <br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+
+**Architecture & Cloud** <br/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+
+**Data & AI** <br/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+
+*(Note: Go to [SimpleIcons.org](https://simpleicons.org/) to find the exact hex codes and names for any tool you use to add more badges above).*
+
+<br/>
+
+## 📊 GitHub Analytics
+
+*Real-time metrics that prove you are actively coding.*
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" width="48%" alt="Top Languages" />
+</div>
+
+<br/>
+
+## 🏆 Highlighted Projects
+
+*Auto-generated cards that pull your real repository data (stars, forks, languages).*
+
+| Project | Description |
+| :--- | :--- |
+| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_GITHUB_USERNAME]&repo=[REPO_NAME_1]&theme=radium&hide_border=true&bg_color=0D1117)](https://github.com/[YOUR_GITHUB_USERNAME]/[REPO_NAME_1]) | **[Project 1 Title]**<br/>Brief 1-sentence impact statement. (e.g., "Reduced query latency by 40% using Redis.") |
+| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_GITHUB_USERNAME]&repo=[REPO_NAME_2]&theme=radium&hide_border=true&bg_color=0D1117)](https://github.com/[YOUR_GITHUB_USERNAME]/[REPO_NAME_2]) | **[Project 2 Title]**<br/>Brief 1-sentence impact statement. |
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
+</div>
