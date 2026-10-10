@@ -55,16 +55,7 @@ Active Directory and Network Security , HIDS/NIDS
 
 <br/>
 
-## 📊 Telemetry & Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="Top Languages" />
-</div>
-
-<br/>
-
-## 🛡️ Deployed Infrastructure (Projects)
+## 🛡️ Projects
 
 | Mission | Impact Report |
 | :--- | :--- |
