@@ -1,84 +1,79 @@
-<!-- Dynamic Gradient Header -->
+<!-- Terminal-Style Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20[Your%20Name]!&fontSize=50&animation=fadeIn" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&background=0D1117&center=true&vCenter=true&width=600&height=80&lines=>_Hello_World;>_su_root;>_Deploying_Cloud_Infrastructure...;>_Securing_Network_Perimeter...;>_Welcome_to_my_profile_!" alt="Terminal Typing Effect" />
 </div>
 
-<!-- Animated Typing Subtitle -->
+<!-- Core Identity Subtitle -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=[Your+Title+,+e.g.,+Full-Stack+Engineer];[Your+Niche+,+e.g.,+AI+%26+Cloud+Architect];[Your+Motto+,+e.g.,+Building+Scalable+Solutions]" alt="Typing SVG" />
-  </a>
-</div>
-
-<br/>
-
-<!-- Clean Social Badges -->
-<div align="center">
-  <a href="mailto:[Your Email]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/[Your LinkedIn]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="[Your Portfolio Link]"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" /></a>
+  <h3 style="color: #58a6ff;">Cloud Infrastructure & Cybersecurity Engineer</h3>
+  <p>Building secure, scalable systems at the edge of the network.</p>
 </div>
 
 <br/>
 
-## 🚀 About Me
-
-I am a **[Your Degree/Current Role]** specializing in **[Your Core Field]**. Unlike standard developers, I focus on the intersection of **[Domain 1]** and **[Domain 2]**, building systems that are both resilient and intelligent. 
-
-*   🔭 **Currently working on:** [Mention a cool sounding project, e.g., an automated threat detection agent]
-*   🌱 **Currently mastering:** [e.g., Kubernetes orchestration and Advanced RAG pipelines]
-*   💡 **Engineering philosophy:** Code is read more than it is written. Build for scale, design for security.
-*   ⚡ **Fun fact:** [Insert a short, unique hobby or achievement, similar to the taekwondo mention]
+<!-- Neon Social Badges -->
+<div align="center">
+  <a href="mailto:[Your Email]"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=00FF00&border=00FF00" alt="Email" /></a>
+  <a href="https://linkedin.com/in/[Your LinkedIn]"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF00" alt="LinkedIn" /></a>
+  <a href="[Your Portfolio Link]"><img src="https://img.shields.io/badge/Terminal_Portfolio-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=00FF00" alt="Portfolio" /></a>
+</div>
 
 <br/>
 
-## 🛠️ Tech Arsenal
+## 📡 Active Radar
 
-*Instead of a boring text table, use visual badges that recruiters instantly recognize.*
+I am a **[Your Degree/Current Role]** engineering secure architectures and monitoring distributed networks. My focus is on automating threat detection, optimizing cloud resources, and hardening infrastructure against modern attack vectors.
 
-**Languages & Core** <br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+*   🔐 **Current Operations:** [e.g., Automating SOC workflows with Python & Zeek]
+*   ☁️ **Cloud Expansion:** [e.g., Migrating monolithic services to secure Kubernetes clusters]
+*   🛠️ **Homelab Lab:** [e.g., Running a Proxmox cluster for malware analysis and network segmentation]
+*   ⚡ **Fun fact:** [e.g., I can subnet an IPv4 network in my head faster than I can do basic addition]
 
-**Architecture & Cloud** <br/>
+<br/>
+
+## 🛠️ Tactical Toolkit
+
+**Cybersecurity & Networking** <br/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square&logo=suricata&logoColor=white" />
+<img src="https://img.shields.io/badge/PfSense-000000?style=flat-square&logo=pfsense&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white" />
+
+**Cloud & DevSecOps** <br/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 
-**Data & AI** <br/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-
-*(Note: Go to [SimpleIcons.org](https://simpleicons.org/) to find the exact hex codes and names for any tool you use to add more badges above).*
+**Scripting & Core Systems** <br/>
+<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 
 <br/>
 
-## 📊 GitHub Analytics
-
-*Real-time metrics that prove you are actively coding.*
+## 📊 Telemetry & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="Top Languages" />
 </div>
 
 <br/>
 
-## 🏆 Highlighted Projects
+## 🛡️ Deployed Infrastructure (Projects)
 
-*Auto-generated cards that pull your real repository data (stars, forks, languages).*
-
-| Project | Description |
+| Mission | Impact Report |
 | :--- | :--- |
-| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_GITHUB_USERNAME]&repo=[REPO_NAME_1]&theme=radium&hide_border=true&bg_color=0D1117)](https://github.com/[YOUR_GITHUB_USERNAME]/[REPO_NAME_1]) | **[Project 1 Title]**<br/>Brief 1-sentence impact statement. (e.g., "Reduced query latency by 40% using Redis.") |
-| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_GITHUB_USERNAME]&repo=[REPO_NAME_2]&theme=radium&hide_border=true&bg_color=0D1117)](https://github.com/[YOUR_GITHUB_USERNAME]/[REPO_NAME_2]) | **[Project 2 Title]**<br/>Brief 1-sentence impact statement. |
+| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_GITHUB_USERNAME]&repo=[REPO_NAME_1]&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/[YOUR_GITHUB_USERNAME]/[REPO_NAME_1]) | **[Project 1 Title]**<br/>Brief explanation of the architecture. (e.g., "Deployed a honeypot network using AWS EC2 and analyzed attack vectors via ELK stack.") |
+| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_GITHUB_USERNAME]&repo=[REPO_NAME_2]&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/[YOUR_GITHUB_USERNAME]/[REPO_NAME_2]) | **[Project 2 Title]**<br/>Brief explanation of the architecture. |
 
 <br/>
 
+<!-- Clean Footer Divider -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=3000&color=58a6ff&center=true&vCenter=true&width=300&height=40&lines=Connection_Terminated.;" alt="Footer" />
 </div>
