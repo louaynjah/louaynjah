@@ -5,29 +5,29 @@
 
 <!-- Core Identity Subtitle -->
 <div align="center">
-  <h3 style="color: #58a6ff;">Cloud Infrastructure & Cybersecurity Engineer</h3>
-  <p>Building secure, scalable systems at the edge of the network.</p>
+  <h3 style="color: #58a6ff;">AI & cybersecurity - networks </h3>
+  <p>Securing systems using new technologies , integrating AI in protection essentials  </p>
 </div>
 
 <br/>
 
 <!-- Neon Social Badges -->
 <div align="center">
-  <a href="mailto:[Your Email]"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=00FF00&border=00FF00" alt="Email" /></a>
-  <a href="https://linkedin.com/in/[Your LinkedIn]"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF00" alt="LinkedIn" /></a>
-  <a href="[Your Portfolio Link]"><img src="https://img.shields.io/badge/Terminal_Portfolio-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=00FF00" alt="Portfolio" /></a>
+  <a href="mailto:louay.njah@etudiant-enit.utm.tn"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=00FF00&border=00FF00" alt="Email" /></a>
+  <a href="https://linkedin.com/in/louay-njah-98aaa1204/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF00" alt="LinkedIn" /></a>
+  <a href="https://louay-njah.netlify.app"><img src="https://img.shields.io/badge/Terminal_Portfolio-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=00FF00" alt="Portfolio" /></a>
 </div>
 
 <br/>
 
 ## 📡 Active Radar
 
-I am a **[Your Degree/Current Role]** engineering secure architectures and monitoring distributed networks. My focus is on automating threat detection, optimizing cloud resources, and hardening infrastructure against modern attack vectors.
+I am a telecommunication engineering student, I'm establishing secure architectures and integrating AI in securing IT . My focus is on automating threat detection and hardening infrastructure against modern attack vectors.
 
-*   🔐 **Current Operations:** [e.g., Automating SOC workflows with Python & Zeek]
-*   ☁️ **Cloud Expansion:** [e.g., Migrating monolithic services to secure Kubernetes clusters]
-*   🛠️ **Homelab Lab:** [e.g., Running a Proxmox cluster for malware analysis and network segmentation]
-*   ⚡ **Fun fact:** [e.g., I can subnet an IPv4 network in my head faster than I can do basic addition]
+*   🔐 **Current Operations:**  Automating  workflows with ai agents
+*   🛠️ **Homelab Lab:** Establishment of an Infrastructure
+Active Directory and Network Security , HIDS/NIDS
+
 
 <br/>
 
