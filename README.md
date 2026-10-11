@@ -57,7 +57,8 @@ Active Directory and Network Security , HIDS/NIDS
 | :--- | :--- |
 | [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=louaynjah&repo=phishing-bert-advanced&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/louaynjah/phishing-bert-advanced) | **[Project 1 Title]**<br/>Brief explanation of the architecture. (e.g., "Deployed a honeypot network using AWS EC2 and analyzed attack vectors via ELK stack.") |
 | [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=louaynjah&repo=AgentSec&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/louaynjah/AgentSec) | **[Project 2 Title]**<br/>Brief explanation of the architecture. |
-
+| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=louaynjah&repo=Securinets-Infra-AD&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/louaynjah/Securinets-Infra-AD) | **[Project 2 Title]**<br/>Brief explanation of the architecture. |
+| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=louaynjah&repo=these-biotherapie&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/louaynjah/these-biotherapie) | **[Project 2 Title]**<br/>Brief explanation of the architecture. |
 <br/>
 
 <!-- Clean Footer Divider -->
