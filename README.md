@@ -55,8 +55,8 @@ Active Directory and Network Security , HIDS/NIDS
 
 | Mission | Impact Report |
 | :--- | :--- |
-| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_GITHUB_USERNAME]&repo=[REPO_NAME_1]&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/[YOUR_GITHUB_USERNAME]/[REPO_NAME_1]) | **[Project 1 Title]**<br/>Brief explanation of the architecture. (e.g., "Deployed a honeypot network using AWS EC2 and analyzed attack vectors via ELK stack.") |
-| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_GITHUB_USERNAME]&repo=[REPO_NAME_2]&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/[YOUR_GITHUB_USERNAME]/[REPO_NAME_2]) | **[Project 2 Title]**<br/>Brief explanation of the architecture. |
+| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=louaynjah&repo=phishing-bert-advanced&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/louaynjah/phishing-bert-advanced) | **[Project 1 Title]**<br/>Brief explanation of the architecture. (e.g., "Deployed a honeypot network using AWS EC2 and analyzed attack vectors via ELK stack.") |
+| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=louaynjah&repo=AgentSec&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/louaynjah/AgentSec) | **[Project 2 Title]**<br/>Brief explanation of the architecture. |
 
 <br/>
 
