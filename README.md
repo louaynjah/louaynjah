@@ -55,10 +55,10 @@ Active Directory and Network Security , HIDS/NIDS
 
 | Mission | Impact Report |
 | :--- | :--- |
-| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=louaynjah&repo=phishing-bert-advanced&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/louaynjah/phishing-bert-advanced) | **[Project 1 Title]**<br/>Brief explanation of the architecture. (e.g., "Deployed a honeypot network using AWS EC2 and analyzed attack vectors via ELK stack.") |
-| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=louaynjah&repo=AgentSec&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/louaynjah/AgentSec) | **[Project 2 Title]**<br/>Brief explanation of the architecture. |
-| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=louaynjah&repo=Securinets-Infra-AD&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/louaynjah/Securinets-Infra-AD) | **[Project 2 Title]**<br/>Brief explanation of the architecture. |
-| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=louaynjah&repo=these-biotherapie&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/louaynjah/these-biotherapie) | **[Project 2 Title]**<br/>Brief explanation of the architecture. |
+| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=louaynjah&repo=phishing-bert-advanced&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/louaynjah/phishing-bert-advanced) | **Phishing-BERT Advanced**<br/>BERT-based phishing detection project for classifying malicious messages with NLP preprocessing and model evaluation. |
+| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=louaynjah&repo=AgentSec&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/louaynjah/AgentSec) | **AgentSec**<br/>AI-assisted security automation platform focused on streamlining SOC workflows, triage, and incident response tasks. |
+| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=louaynjah&repo=Securinets-Infra-AD&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/louaynjah/Securinets-Infra-AD) | **Securinets Infra AD**<br/>Active Directory and network security lab infrastructure with hardened configurations, segmentation, and defensive monitoring. |
+| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=louaynjah&repo=these-biotherapie&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/louaynjah/these-biotherapie) | **Thèse Biothérapie**<br/>Research-focused project repository for biotherapy thesis work, combining technical assets and structured study documentation. |
 <br/>
 
 <!-- Clean Footer Divider -->
